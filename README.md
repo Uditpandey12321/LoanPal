@@ -160,22 +160,17 @@ npm run dev
 
 ### 📌 Future Enhancements
 
-### 1) Admin dashboard
-
-### 2) Multi-bank loan offers
-
-### 3) EMI calculator
-
-### 4) WhatsApp / Email notifications
-
-### 5) Credit score integration
-
-### 6) Support ticket system
+**1) Admin dashboard**
+**2) Multi-bank loan offers**
+**3) EMI calculator**
+**4) WhatsApp / Email notifications**
+**5) Credit score integration**
+**6) Support ticket system**
 
 ---
 
 ### 👨‍💻 Author
 
-Made by Neeraj Kumar , 
+Made by Neeraj Kumar, Alankrit Agarwal, Tushar Sharma, Udit N. Pandey, Sohit K. Sharma 
 LoanPal – AI-driven loan approval platform
 Built with ❤️ using React, Supabase & AI
